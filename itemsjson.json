@@ -9889,5 +9889,86 @@
 		"image_url" : "https://si.geilicdn.com/pcitem1699314920-21d10000018477238af10a2313e0_500_375.jpg",
 		"product_link" : "https://weidian.info/6fakd",
 		"price" : 24
+	},
+	{
+		"id" : 1101,
+		"name" : "doc martens",
+		"brand" : "other",
+		"type" : "shoes",
+		"image_url" : "https://si.geilicdn.com/wdseller1336001178-22860000017e39dbf6660a20e284_1240_1240.jpg",
+		"product_link" : "https://weidian.info/2cqha",
+		"price" : 12.95
+	},
+	{
+		"id" : 1102,
+		"name" : "nike blazers",
+		"brand" : "nike",
+		"type" : "shoes",
+		"image_url" : "https://si.geilicdn.com/pcitem1384976249-50de0000017502e9c8020a20b7b9_1080_1080.jpg",
+		"product_link" : "https://weidian.info/q76wj",
+		"price" : 20.23
+	},
+	{
+		"id" : 1103,
+		"name" : "Harley Davidson jacket",
+		"brand" : "other",
+		"type" : "jacket",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i4/2200566836006/O1CN01CbdLbk1uEnPhrF046_!!2200566836006.jpg",
+		"product_link" : "https://weidian.info/btpcj",
+		"price" : 17.46
+	},
+	{
+		"id" : 1104,
+		"name" : "monster x kawasaki jacket",
+		"brand" : "other",
+		"type" : "jacket",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/2200566836006/O1CN015pXYOT1uEnNwenNA2_!!2200566836006.jpg",
+		"product_link" : "https://weidian.info/w73b8",
+		"price" : 15.28
+	},
+	{
+		"id" : 1105,
+		"name" : "trapstar puffer jacket",
+		"brand" : "trapstar",
+		"type" : "jacket",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/2200724921159/O1CN01TEBlHn1KQrq0T9eEl_!!2200724921159.jpg",
+		"product_link" : "https://weidian.info/exh3j",
+		"price" : 56.46
+	},
+	{
+		"id" : 1106,
+		"name" : "carhartt washed hoodie",
+		"brand" : "carhartt",
+		"type" : "jacket",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/3247304502/O1CN01nLpQ6W1j7xy4be6JA_!!3247304502.jpg",
+		"product_link" : "https://weidian.info/4aubv",
+		"price" : 43.65
+	},
+	{
+		"id" : 1107,
+		"name" : "evangelion hoodie/crewneck",
+		"brand" : "other",
+		"type" : "hoodie",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i3/3220901534/O1CN01CcMd0O1NCcCDNUzo3_!!3220901534.jpg",
+		"product_link" : "https://weidian.info/4frdp",
+		"price" : 21.54
+	},
+	{
+		"id" : 1108,
+		"name" : "stussy crewneck",
+		"brand" : "stussy",
+		"type" : "hoodie",
+		"image_url" : "https://si.geilicdn.com/wdseller341093006-64e400000184596aff070a22b3e4_800_800.jpg",
+		"product_link" : "https://weidian.info/bdqfz",
+		"price" : 9.46
+	},
+	{
+		"id" : 1109,
+		"name" : "amiri bone bomber jacket",
+		"brand" : "other",
+		"type" : "jacket",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/2213077309110/O1CN01S9v9pp2HAR2DiS6HW_!!2213077309110.jpg",
+		"product_link" : "https://weidian.info/n5cn2",
+		"price" : 40.6
 	}
 ]
