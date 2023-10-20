@@ -9970,5 +9970,86 @@
 		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/2213077309110/O1CN01S9v9pp2HAR2DiS6HW_!!2213077309110.jpg",
 		"product_link" : "https://weidian.info/n5cn2",
 		"price" : 40.6
+	},
+	{
+		"id" : 1110,
+		"name" : "amiri skeleton top low",
+		"brand" : "other",
+		"type" : "shoes",
+		"image_url" : "https://si.geilicdn.com/pcitem1690681280-54c4000001851e2cb7de0a2313c4-unadjust_1171_766.png",
+		"product_link" : "https://weidian.info/j9haf",
+		"price" : 28.79
+	},
+	{
+		"id" : 1111,
+		"name" : "M&M's jacket",
+		"brand" : "other",
+		"type" : "jacket",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/3495073916/O1CN01jsYmTQ1enZhS12a9E_!!0-item_pic.jpg",
+		"product_link" : "https://weidian.info/fcfcr",
+		"price" : 11.35
+	},
+	{
+		"id" : 1112,
+		"name" : "arcteryx x Jil Sander jacket",
+		"brand" : "other",
+		"type" : "jacket",
+		"image_url" : "https://si.geilicdn.com/weidian901741601428-0743000001864a29f2870a231273_826_452.jpg",
+		"product_link" : "https://weidian.info/4gpv9",
+		"price" : 18.18
+	},
+	{
+		"id" : 1113,
+		"name" : "PSG windbreaker",
+		"brand" : "other",
+		"type" : "jacket",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/2214396127829/O1CN015COSr327hja8dtHF6_!!2214396127829.jpg",
+		"product_link" : "https://weidian.info/fkphk",
+		"price" : 9.89
+	},
+	{
+		"id" : 1114,
+		"name" : "vetements R-rated hoodie",
+		"brand" : "other",
+		"type" : "hoodie",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i2/2200775607161/O1CN01MyBXF622ln3DLhuJA_!!2200775607161.jpg",
+		"product_link" : "https://weidian.info/j4mjh",
+		"price" : 17.45
+	},
+	{
+		"id" : 1115,
+		"name" : "stussy hoodie very budget",
+		"brand" : "stussy",
+		"type" : "hoodie",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN017qcv7R2I4JILeVXit_!!2215474859232-0-cib.jpg",
+		"product_link" : "https://weidian.info/e72sy",
+		"price" : 3.59
+	},
+	{
+		"id" : 1116,
+		"name" : "budget af tommy hilfiger",
+		"brand" : "other",
+		"type" : "hoodie",
+		"image_url" : "https://cbu01.alicdn.com/img/ibank/O1CN019utEeX1gcFBX5UweM_!!2212893534162-0-cib.jpg",
+		"product_link" : "https://weidian.info/df7mg",
+		"price" : 2.48
+	},
+	{
+		"id" : 1117,
+		"name" : "ken carason tee",
+		"brand" : "other",
+		"type" : "tee",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/691060629/O1CN01H8jzYw1GW7rm0Db7D_!!691060629.jpg",
+		"product_link" : "https://weidian.info/hwbjp",
+		"price" : 9.7
+	},
+	{
+		"id" : 1118,
+		"name" : "unbranded raver jeans",
+		"brand" : "other",
+		"type" : "pants",
+		"image_url" : "https://img.alicdn.com/bao/uploaded/i1/24625750/O1CN010GoqP71sLYD0QDUxF_!!24625750.jpg",
+		"product_link" : "https://weidian.info/dygeq",
+		"price" : 15.71
 	}
 ]
